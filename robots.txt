@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.blütezeit-markkleeberg.com/sitemap.xml
+Sitemap: https://xn--bltezeit-markkleeberg-9hc.com/sitemap.xml
